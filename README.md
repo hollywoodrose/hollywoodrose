@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://files.catbox.moe/vb0sf1.jpg" alt="Image" width="230" height="230">
+  <img src="https://files.catbox.moe/a77jaz.gif" alt="Demo" width="300">
+</p>
+
 
 <div align="center">
 
-# ──── ୨୧ ────
+ ──── ୨୧ ────
 
 <sub>
 <a href="https://rentry.co/veteran">main</a> ·
