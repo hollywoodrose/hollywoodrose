@@ -5,8 +5,6 @@
 
 <div align="center">
 
- ──── ୨୧ ────
-
 <sub>
 <a href="https://rentry.co/veteran">rentry</a> ·
 <a href="https://slaxl.straw.page">strawpage</a> ·
