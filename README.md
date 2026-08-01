@@ -8,7 +8,7 @@
  ──── ୨୧ ────
 
 <sub>
-<a href="https://rentry.co/veteran">main</a> ·
+<a href="https://rentry.co/veteran">rentry</a> ·
 <a href="https://slaxl.straw.page">strawpage</a> ·
 <a href="https://pronouns.cc/@axlrose">pronouns.cc</a>
 </sub>
